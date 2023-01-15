@@ -1,7 +1,7 @@
 # README
 
 # RailsReactAuthApp
-<h1 align="center">Hi. I'm <a href="https://daniilshat.ru/" target="_blank">Vitalii</a> 
+<h1 align="center">Hi. I'm Vitalii</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> from UKRAINE 🇺🇦.</h1>
 <h2> Thank you very much everyone who was/is/will be help Ukraine and their peoples.</h2>
 <h2 align="center">  YOU COOL! </h2>
