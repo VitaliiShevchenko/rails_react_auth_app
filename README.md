@@ -25,7 +25,7 @@ Database: PostgreSql
   <li>Install RVM</li>
   <li>Install Ruby: rvm install "ruby-3.1.2"</li>
   <li>Install Rails: gem install rails - v7.0.4</li>
-  <li>Downloading this repository in directory of your computer in be help git clone</li>
+  <li>Downloading this repository in directory of your computer by help git clone</li>
   <li>Goto this directory</li>
   Typping: 
   <li>rails db:create</li>
